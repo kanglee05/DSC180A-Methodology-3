@@ -1,3 +1,3 @@
 # DSC180A-Methodology-3
 
-Kang Lee
+Keilani Li
